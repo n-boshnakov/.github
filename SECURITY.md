@@ -10,14 +10,12 @@ Gardener is a growing community of volunteers and users. The Gardener community 
 
 Security vulnerabilities should be handled quickly and sometimes privately. The primary goal of this process is to reduce the total time users are vulnerable to publicly known exploits. The Gardener Security Team is responsible for organizing the entire response, including internal communication and external disclosure, but will need help from relevant developers and release managers to successfully run this process. The Gardener Security Team consists of the following volunteers:
 
-* Vasu Chandrasekhara, (**[@vasu1124](https://github.com/vasu1124)**)
-* Christian Cwienk, (**[@ccwienk](https://github.com/ccwienk)**)
-* Donka Dimitrova, (**[@donistz](https://github.com/donistz)**)
+* Christian Cwienk (**[@ccwienk](https://github.com/ccwienk)**)
+* Donka Dimitrova (**[@donistz](https://github.com/donistz)**)
 * Eva Kuhnle-Heck (**[@HeckEK](https://github.com/HeckEK)**)
-* Vedran Lerenc, (**[@vlerenc](https://github.com/vlerenc)**)
-* Dirk Marwinski, (**[@marwinski](https://github.com/marwinski)**)
-* Jordan Jordanov, (**[@jordanjordanov](https://github.com/jordanjordanov)**)
-* Philipp Heil, (**[@zkdev](https://github.com/zkdev)**)
+* Vedran Lerenc (**[@vlerenc](https://github.com/vlerenc)**)
+* Dirk Marwinski (**[@marwinski](https://github.com/marwinski)**)
+* Jordan Jordanov (**[@jordanjordanov](https://github.com/jordanjordanov)**)
 
 ## Disclosures
 
@@ -71,10 +69,10 @@ The Fix Lead will send a retrospective of the process to the [Gardener mailing l
 
 ### Communication Channel
 
-The [private](#private-disclosure-process) or [public disclosure process](#public-disclosure-process) should be triggered exclusively by writing an e-mail to [secure@sap.com](mailto:secure@sap.com).
+The [private](#private-disclosure-process) or [public disclosure process](#public-disclosure-process) should be triggered exclusively by writing an e-mail to [gardener-security@lists.neonephos.org](mailto:gardener-security@lists.neonephos.org).
 
 Gardener security announcements will be communicated by the Fix Lead sending an e-mail to the [Gardener mailing list](https://groups.google.com/forum/#!forum/gardener) (reachable via [gardener@googlegroups.com](mailto:gardener@googlegroups.com)), as well as posting a link in the [#general](https://gardener-cloud.slack.com/archives/CAPMD6DCG) Slack channel (join the workspace [here](https://gardener.cloud/community/community-bio/)).
 
 Public discussions about Gardener security announcements and retrospectives will primarily happen in the Gardener mailing list. Thus Gardener community members who are interested in participating in discussions related to the Gardener Security Release Process are encouraged to join the Gardener mailing list ([how to find and join a group](https://support.google.com/groups/answer/1067205?hl=en)).
 
-The members of the [Gardener Security Team](#gardener-security-team) are subscribed to the private [Gardener Security mailing list](https://groups.google.com/forum/#!forum/gardener-security) (reachable via [gardener-security@googlegroups.com](mailto:gardener-security@googlegroups.com)).
+The members of the [Gardener Security Team](#gardener-security-team) are subscribed to the private [Gardener Security mailing list](https://groups.google.com/forum/#!forum/gardener-security) (reachable via [gardener-security@lists.neonephos.org](mailto:gardener-security@lists.neonephos.org)).
