@@ -73,7 +73,7 @@ The Fix Lead will send a retrospective of the process to the [Gardener mailing l
 
 The [private](#private-disclosure-process) or [public disclosure process](#public-disclosure-process) should be triggered exclusively by writing an e-mail to [gardener-security@lists.neonephos.org](mailto:gardener-security@lists.neonephos.org).
 
-Gardener security announcements will be communicated by the Fix Lead sending an e-mail to the [Gardener mailing list](https://groups.google.com/forum/#!forum/gardener) (reachable via [gardener@googlegroups.com](mailto:gardener@googlegroups.com)), as well as posting a link in the [#general](https://gardener-cloud.slack.com/archives/CAPMD6DCG) Slack channel (join the workspace [here](https://gardener.cloud/community/community-bio/)).
+Gardener security announcements will be communicated by the Fix Lead sending an e-mail to the [Gardener mailing list](https://groups.google.com/forum/#!forum/gardener) (reachable via [gardener@googlegroups.com](mailto:gardener@googlegroups.com)), as well as posting a link in the [#general](https://gardener-cloud.slack.com/archives/CAPMD6DCG) Slack channel (join the workspace [here](https://gardener.cloud/community/#get-connected)).
 
 Public discussions about Gardener security announcements and retrospectives will primarily happen in the Gardener mailing list. Thus Gardener community members who are interested in participating in discussions related to the Gardener Security Release Process are encouraged to join the Gardener mailing list ([how to find and join a group](https://support.google.com/groups/answer/1067205?hl=en)).
 
